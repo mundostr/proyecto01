@@ -1,5 +1,5 @@
 def main():
-	print("INICIO DE SISTEMA")
+	print("Inicio")
 
 if (__name__ == "__main__"):
 	main()
